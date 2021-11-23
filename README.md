@@ -36,7 +36,7 @@ The dataset contains 21 variables and 10,000 rows. It contains information about
 
 ### Results
 
-The main findings of our analysis can be found at the following blog post : 
+The main findings of our analysis can be found at the following blog post : https://medium.com/@tmsubait/a-blog-post-on-analyzing-movies-data-b506cf2a99f5
 
 #### Licensing, Authors, Acknowledgements
 Acknowledgements should go to Kaggle for providing the dataset:
